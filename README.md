@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Form-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Form-Builder?style=social&color=white" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Form-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Form-Builder?style=social&color=white" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
   <img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License">
@@ -45,7 +45,7 @@ This guide provides a comprehensive, benchmarked comparison of both hosted comme
 - [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [☁️ Top SaaS & Hosted Form Builders](#️-top-saas--hosted-form-builders)
 - [🔓 Open-Source GitHub Projects & Libraries](#-open-source-github-projects--libraries)
-  - [⭐ Open-Source Comparison by Star Count](#-open-source-comparison-by-star-count)
+  - [⭐ Open-Source Comparison by Stars_Count](#-open-source-comparison-by-star-count)
   - [📦 Deep Dive: Developer Libraries & Self-Hosted Solutions](#-deep-dive-developer-libraries--self-hosted-solutions)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [💖 Support & Sponsorship](#-support--sponsorship)
@@ -77,11 +77,11 @@ The following table lists leading commercial and hosted form platforms, **ranked
 
 For engineering teams looking to retain control, embed builders into existing web applications, or deploy self-hosted form infrastructure.
 
-### ⭐ Open-Source Comparison by Star Count
+### ⭐ Open-Source Comparison by Stars_Count
 
 All repositories are sorted in descending order by GitHub stargazers count:
 
-| Rank | Repository & Star Badge 🌟 | Primary Category 🏷️ | Stack / Technologies 🛠️ | Key Capabilities & Architecture 🚀 |
+| Rank | Repository & Stars_Badge 🌟 | Primary Category 🏷️ | Stack / Technologies 🛠️ | Key Capabilities & Architecture 🚀 |
 |:---:|:---|:---|:---|:---|
 | 1 | **[Formbricks](https://github.com/formbricks/formbricks)** [![Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) | Self-Hosted Survey Suite | Next.js, TypeScript, Tailwind, Prisma | Enterprise experience management platform, multi-channel micro-surveys, granular audience targeting, in-app popups, and self-hostable Docker container. |
 | 2 | **[Formily](https://github.com/alibaba/formily)** [![Stars](https://img.shields.io/github/stars/alibaba/formily?style=social&color=white)](https://github.com/alibaba/formily/stargazers) | Form Framework & Builder | React, Vue 2/3, TypeScript, RxJS | Enterprise-grade dynamic form solution from Alibaba; JSON Schema-driven, state-machine driven reactive forms, extreme high-performance rendering. |
@@ -130,7 +130,7 @@ Contributions to expand this list are warmly welcomed! 🙌
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-form-tool`).
 3. 📝 **Add your entry** following the tabular format above:
    - For SaaS tools: Include verified pricing, explicit free tier / trial terms, and corporate valuation/revenue estimates.
-   - For Open-Source projects: Include active GitHub link, current star count badge (`style=social&color=white`), and core technical stack.
+   - For Open-Source projects: Include active GitHub link, current Stars_Count badge (`style=social&color=white`), and core technical stack.
 4. 🚀 **Commit your changes** (`git commit -m 'feat: Add [ToolName] to form builder list'`).
 5. 📬 **Open a Pull Request** with a brief summary explaining the tool's uniqueness.
 
