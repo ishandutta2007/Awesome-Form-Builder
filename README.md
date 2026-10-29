@@ -9,10 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Form-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Form-Builder?style=social&color=white" alt="GitHub Stars"></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
   <img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License">
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -46,6 +48,8 @@ This guide provides a comprehensive, benchmarked comparison of both hosted comme
   - [⭐ Open-Source Comparison by Star Count](#-open-source-comparison-by-star-count)
   - [📦 Deep Dive: Developer Libraries & Self-Hosted Solutions](#-deep-dive-developer-libraries--self-hosted-solutions)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer & Privacy Regulations](#️-disclaimer--privacy-regulations)
 
 ---
@@ -129,6 +133,23 @@ Contributions to expand this list are warmly welcomed! 🙌
    - For Open-Source projects: Include active GitHub link, current star count badge (`style=social&color=white`), and core technical stack.
 4. 🚀 **Commit your changes** (`git commit -m 'feat: Add [ToolName] to form builder list'`).
 5. 📬 **Open a Pull Request** with a brief summary explaining the tool's uniqueness.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for using and exploring this curated form builder directory! 🙏 If you found this repository helpful, please consider showing your support:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and contribute** new form builders, libraries, or market updates.
+- 📢 **Share** it with your fellow developers, product teams, and communities.
+- ☕ **Buy a coffee / Sponsor**: If you'd like to back ongoing maintenance and open-source research across this ecosystem, support via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Form-Builder&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Form-Builder&type=date&legend=top-left)
 
 ---
 
